@@ -13,4 +13,4 @@ paperurl:
 * Total pipe length: 82.7 km
 * This network was applied in <a href="https://ieeexplore.ieee.org/abstract/document/9309770" target="_blank" rel="noopener noreferrer">Detecting Bursts in Water Distribution System via Penalized Functional Decomposition</a>.
 
-<br/><img src='/images/Austin network.png'>
+<br/><img src='/images/Austin network.png' width="100%" height="100%">
