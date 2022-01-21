@@ -1,7 +1,7 @@
 ---
 title: "Austin network"
-collection: Application network
-permalink: /Application network/Austin
+collection: Applicationnetwork
+permalink: /Applicationnetwork/Austin
 excerpt: This network is transmission oriented system.
 date: 
 venue: 
