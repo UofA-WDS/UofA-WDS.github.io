@@ -3,8 +3,8 @@ main:
   - title: "Application network"
     url: /Application network/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "WDS data"
+    url: /WDS data/    
 
   #- title: "Teaching"
   #  url: /teaching/    
