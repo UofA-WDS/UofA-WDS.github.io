@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Seokhyeon Kim"
-description              : &description "Researcher in WRC@UNSW, Sydney, Australia"
-url                      : https://steelpl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "UofA_WDS"
+description              : &description "Lansey's WDS team"
+url                      : https://UofA-WDS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "steelpl.github.io"
+repository               : "UofA-WDS.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,31 +80,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seokhyeon Kim"
-  avatar           : "seokhyeonkim_cent.jpg"
-  bio              : "Researcher in WRC@UNSW, expert in hydrology, water resources and satellite remote sensing"
-  location         : "Sydney, Australia"
+  name             : "UofA-WDS"
+  avatar           : "AZ logo.png"
+  bio              : "Lansey's WDS team"
+  location         : "Tucson, Arizona"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.au/citations?user=n-vbEt0AAAAJ&hl=en"
-  email            : "seokhyn.kim@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Seokhyeon_Kim"
-  publons          : "https://publons.com/researcher/3713985/seokhyeon-kim/"
-  uri              :
+  googlescholar    : 
+  email            : 
+  researchgate     : 
+  publons          : 
+  uri              : "https://caem.engineering.arizona.edu/faculty-staff/faculty/kevin-e-lansey"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "steelpl"
+  github           : "UofA-WDS"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "seokhyeon-kim-58aa3182"
-  orcid            : "https://orcid.org/0000-0002-1819-8022"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
