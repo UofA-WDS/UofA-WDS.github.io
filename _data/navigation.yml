@@ -15,8 +15,8 @@ main:
   #- title: "Blog"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "WDN"
+    url: /cv/
     
   - title: "Code"
     url: /software/
