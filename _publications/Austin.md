@@ -8,7 +8,10 @@ venue:
 paperurl: 
 ---
 ## Network information
-* Kim, S., Parinussa, R. M., Liu, Y. Y., Johnson, F. M., & Sharma, A. (2015). A framework for combining multiple soil moisture retrievals based on maximizing temporal correlation. <i>Geophysical Research Letters</i>, 42(16), <a href="https://steelpl.github.io/publication/2015-07-23-paper-GRL" target="_blank" rel="noopener noreferrer">6662-6670</a>.
+* Transmission oriented system
+* Daily average demand: 726 L/s
+* Total pipe length: 82.7 km
+* This network was applied in <a href="https://ieeexplore.ieee.org/abstract/document/9309770" target="_blank" rel="noopener noreferrer">Detecting Bursts in Water Distribution System via Penalized Functional Decomposition</a>.
 * 
 
 
